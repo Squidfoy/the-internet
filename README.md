@@ -4,8 +4,8 @@
 * The target audience of this tutorial is meant to be anyone who is interested or curious about the internet. I aim for a beginner to understand this tutorial, so I will say it is for ages 13+.
 
 ## Table of Contents
-* [What is the internet](doc1.md)
-* [doc2](doc2.md)
+* [What is the internet?](doc1.md)
+* [What is a network?](doc2.md)
 
 ## Refrences 
 * Module 7 from this class
