@@ -4,3 +4,5 @@ A *network* is a group of computers that are connected together for data sharing
 The internet connects all of these smaller networks together, earning the ***network of networks*** description. It can be thought of as a tree: it begins as one trunk, but as it continues, it branches out. These branches lead to smaller clusters (*networks*) of branches.
   
 ![Tree pic](https://github.com/user-attachments/assets/f2c33de1-6a7b-4e53-b33d-018c829790f3)
+
+Click [here](README.md) to go back to the main page.
