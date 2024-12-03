@@ -17,6 +17,13 @@ Some different protocas include TCP, UDP, and IP.
 IP is the protocal that oversees sending packets from network to netork. IP requires each packet to have IP information attatched to it, or an IP address. This helps rounters send the packets to the right place. Packets aren't the ontly thing with an IP address, every domain (or website) and physical device that connects to the internet has its own IP address. IP addressing allows data to get transfered to the right place every time, which is just what a protocol is meant to do.
   
 #### Transmission Control Protocol (TCP)
+IP ensures that the packets arrive at the correct destination, but it does not guaranteee that, when they get there, they are in the correct order and are devoid or errors. It is the responsibility of TCP to identify errors and put the puzzle of packets back together. TCP retains the connection with the sender before the first packet is sent and after the last one arrives. If any packets are missing, it asks the sender to resend that particular packet. TCP manages to do its job through a process called the *3-way handshake*. 
+1. SYN: The sender sends an initial request packet in order to begin the line of communication.
+2. SYN-ACK: The reciver sends back a packat acknowledging the request.
+3. ACK: The sender sends another packet to confirm the process and oficially establish a connection.  
+Once the 3-way handshake is complete, the packets of data can be sent. When they have been reassembled without error, the connection is broken.
+  
+TCP is used with IP (TCP/IP) to efficiently send data across the internet.
   
 #### User Datagram Protocal (UCP)
   
