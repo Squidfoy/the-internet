@@ -9,8 +9,9 @@
 ## Table of Contents
 * [What is the internet?](doc1.md)
 * [What is a network?](doc2.md)
-* [No_title_yet](doc3.md)
-* [No_title_yet](doc4.md)
+* [How does the internet work digitally?](doc3.md)
+* [How does the internet work physically?](doc4.md)
+* How does the internet allow you to view websites?
 
 ## Refrences 
 * Module 7 from this class
