@@ -11,7 +11,7 @@
 * [What is a network?](doc2.md)
 * [How does the internet work digitally?](doc3.md)
 * [How does the internet work physically?](doc4.md)
-* How does the internet allow you to view websites?
+* [How does the internet allow you to view websites?](doc5.md)
 
 ## Refrences 
 * Module 7 from this class
