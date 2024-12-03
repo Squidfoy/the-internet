@@ -7,6 +7,6 @@ Routers recieve traveling packets and then forward them to the next step in thei
 Switches connect devices that share a single network. They recieve packets from those devices and send them along their journey to their destination. They use packet switching to make sure they are sending the packets to the right devices.  
   
 #### Web Servers
-Web servers are very powerful computer that store and send different content (such as websites) to uses apon request. They also store applications and databases. In the next part, we will learn more about how the web servers recieve these requests and send the right content.
+Web servers are very powerful computer that store and send different content (such as websites) to uses apon request. They also store applications and databases. 
   
 Click [here](README.md) to go back to the main page.
