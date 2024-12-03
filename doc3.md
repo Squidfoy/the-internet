@@ -26,5 +26,8 @@ Once the 3-way handshake is complete, the packets of data can be sent. When they
 TCP is used with IP (TCP/IP) to efficiently send data across the internet.
   
 #### User Datagram Protocal (UCP)
+Unlike TCP, UDP does not establish a connection before sending packets, it just sends them. UDP is a much faster process than TCP, but it often looses packets in transit. So, why do we use it if its less reliable? TCP is great for tasks such as sending an email or browsing the web, but time sensitive tasks such as video and audio traffic simply can't afford to have packets arrive out of order to be reassembled. It would take too long! In cases like these, it is better to lose a few packets than to have to wait. For example, a static-y phone call is preferd over one that is heavily delayed.  
+  
+UDP is also used in conjunction with IP (UDP/IP) to efficiently send data across the internet.
   
 Click [here](README.md) to go back to the main page.
